@@ -237,7 +237,7 @@ const ResultsSummary = ({ semesters }) => {
                         {/* Scholarship badge */}
                         {cgpaResult.cgpa >= 8.0 && !cgpaResult.hasFailure && (
                             <div className="scholarship-badge mt-4 justify-center">
-                                🎉 Scholarship Safe!
+                                 Safe!
                             </div>
                         )}
 
